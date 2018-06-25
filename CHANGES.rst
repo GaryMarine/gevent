@@ -7,7 +7,7 @@
 1.3.5 (unreleased)
 ==================
 
-- Nothing changed yet.
+- Update the bundled libuv from 1.20.1 to 1.21.0.
 
 
 1.3.4 (2018-06-20)
